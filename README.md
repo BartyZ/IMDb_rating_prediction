@@ -1,2 +1,2 @@
-# IMDb_rating_prediction
+# IMDb Rating Prediction
 Movie rating prediction, basing on IMDb database
